@@ -1,0 +1,25 @@
+Name,Age,Event location - District,Date of death,Gender
+
+M72,16,Fofo,01/22/2022,M
+M71,16,Fofo,01/22/2022,M
+M75,16,Fofo,01/22/2022,M
+M70,16,Fofo,01/22/2022,M
+M74,16,Fofo,01/22/2022,M
+M76,16,Fofo,01/22/2022,M
+M73,16,Fofo,01/22/2022,M
+
+
+M62,26,Hebron,02/03/2023,M
+M61,26,Hebron,02/03/2023,M
+M64,26,Hebron,01/30/2023,M
+M60,26,Hebron,03/03/2023,M
+M63,26,Hebron,01/30/2023,M
+M65,26,Hebron,01/30/2023,M
+
+
+M20,21,Ramallah,02/22/2023,M
+M10,26,Ramallah,01/21/2023,M
+M40,16,Ramallah,03/23/2023,M
+M30,22,Ramallah,02/22/2023,M
+M50,36,Ramallah,04/24/2023,M
+
