@@ -1,5 +1,5 @@
-# StructureProj_3
- Data Structure Third project (Martyrs Recors management System)
+# Martyrs Recors Management System
+ Data Structure Third project 
  
  This project offers a comprehensive system for managing and honoring the legacy of martyrs. It utilizes a unique combination of data structures to ensure efficient storage, retrieval, and modification of martyr records, all within a user-friendly interface.
 
